@@ -14,7 +14,7 @@ You are well on your way to becoming a programmer and Excel master! In this proj
 
 ### Other Considerations
 
-* Used the sheet `alphabetical_testing.xlsx` while developing your code. This data set is smaller and allowed test to be conducted faster. Code runs on this file in less than 3-5 minutes.
+* Used the sheet `alphabetical_testing.xlsx` while developing the code. This data set is smaller and allowed test to be conducted faster. Code runs on this file in less than 3-5 minutes.
 
 * Ensured script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
