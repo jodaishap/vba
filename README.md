@@ -2,7 +2,7 @@
 
 ## Background
 
-You are well on your way to becoming a programmer and Excel master! In this project VBA scripting is used to analyze real stock market data. 
+In this project VBA scripting is used to analyze real stock market data. 
 
 ### Project
 
